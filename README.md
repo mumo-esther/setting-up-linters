@@ -86,8 +86,12 @@ Contributions, issues, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- KEY FEATURES -->
+- Header has a great color which is aqua
+
 <!-- FUTURE FEATURES -->
-I'd like to add more content in the index.html file like images, videos
+
+- I'd like to add more content in the index.html file like images, videos
 
 <!-- SUPPORT -->
 
