@@ -86,6 +86,9 @@ Contributions, issues, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+I'd like to add more content in the index.html file like images, videos
+
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
